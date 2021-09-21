@@ -28,3 +28,18 @@ h2{
 h3{
     color:blue;
 }
+
+.links{
+    float:right;
+    padding-top: 5px;
+    padding-left:25px;
+    padding-right:10px;
+}
+
+
+.menu{
+    font-family: cursive;
+    cursor:pointer;
+    list-style:none;
+    z-index:10;
+}
