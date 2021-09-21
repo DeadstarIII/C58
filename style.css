@@ -6,7 +6,7 @@
 body{
     text-align: center;
     font-family: 'Open Sans Condensed', sans-serif;
-    background:linear-gradient(green 0%, blue 80%);
+    background:linear-gradient(cyan, red);
 }
 .line {
     height: 6px;
@@ -22,4 +22,9 @@ h1{
 }
 h2{
     color:thistle;
+    font-family: 'Grey Qo', cursive;
+    font-family:cursive;
+}
+h3{
+    color:blue;
 }
