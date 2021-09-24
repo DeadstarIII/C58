@@ -1,7 +1,9 @@
 #book{
     border-radius:  75px;
     margin-top: 100;
+    text-align: center;
     height:50px;
+    margin-bottom:25px;
 }
 body{
     text-align: center;
