@@ -3,7 +3,6 @@
     margin-top: 100;
     text-align: center;
     height:50px;
-    margin-bottom:25px;
 }
 body{
     text-align: center;
@@ -32,7 +31,7 @@ h3{
 }
 
 .links{
-    float:right;
+    float:left;
     padding-top: 5px;
     padding-left:25px;
     padding-right:10px;
