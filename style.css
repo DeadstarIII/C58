@@ -39,8 +39,11 @@ h3{
 
 
 .menu{
-    font-family: cursive;
-    cursor:pointer;
-    list-style:none;
-    z-index:10;
-}
+    list-style: none;
+     font-family:cursive;
+    float:right;
+     top:10px;
+     right:30px;
+     cursor: pointer;
+     color:black;
+ }
